@@ -1,0 +1,14 @@
+layout_spectrum: 0.7981269
+typography_spectrum: 0.385324
+color:
+  saturation: 0.3051052
+  lightness: 0.2798461
+  brandStrength: 1
+  brandColors:
+    - '#2D2220'
+    - '#EAECE0'
+    - '#87776F'
+    - '#653821'
+    - '#CE7766'
+  rhythmicContrast: 0.9794636
+name: BruceSchultz
